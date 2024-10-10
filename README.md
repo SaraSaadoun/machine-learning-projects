@@ -3,10 +3,10 @@
 Welcome to my collection of Machine Learning Projects! Here, I practice and showcase various ML models and techniques. Let's dive in! 🚀
 
 # Index:
-- [**1. Diabetes Classification**](#1-diabetes-classification)
-- [**2. Titanic Classification**](#2-titanic-classification--a-data-leakage-free-approach-)
-- [**3. Mall Customer Segmentation**](#3-mall-customer-segmentation)
-- [**4. Iris Species Multi-Classifier**](#4-iris-species-multi-classifier)
+- **1. Diabetes Classification**
+- **2. Titanic Classification**
+- **3. Mall Customer Segmentation**
+- **4. Iris Species Multi-Classifier**
 
 ## 📊 1. Diabetes Classification
 
