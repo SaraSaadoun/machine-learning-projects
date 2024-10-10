@@ -2,6 +2,11 @@
 
 Welcome to my collection of Machine Learning Projects! Here, I practice and showcase various ML models and techniques. Let's dive in! 🚀
 
+# Index:
+- **1. Diabetes Classification**
+- **2. Titanic Classification**
+- **3. Mall Customer Segmentation** 
+ 
 ## 📊 1. Diabetes Classification
 
 ### Project Overview
@@ -40,7 +45,7 @@ After feature extraction, we select the most appropriate features and create a v
 
 ---
 
-## 🎯 3. Customer Segmentation Project
+## 🎯 3. Mall Customer Segmentation
 
 ### Overview
 This project focuses on performing **customer segmentation** using unsupervised learning techniques to group customers based on their spending patterns and annual income. The goal is to identify distinct groups to better understand customer behavior.
