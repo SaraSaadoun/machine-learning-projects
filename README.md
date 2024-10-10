@@ -40,4 +40,21 @@ After feature extraction, we select the most appropriate features and create a v
 
 ---
 
+## 🎯 3. Customer Segmentation Project
+
+### Overview
+This project focuses on performing **customer segmentation** using unsupervised learning techniques to group customers based on their spending patterns and annual income. The goal is to identify distinct groups to better understand customer behavior.
+
+### Techniques Used
+- **K-Means Clustering**: Applied to segment customers into distinct groups based on features like annual income and spending score.
+- **Elbow Method & Silhouette Score**: Used to determine the optimal number of clusters for segmentation.
+- **Principal Component Analysis (PCA)**: Implemented for dimensionality reduction and to visualize the clusters in two dimensions.
+- **Hierarchical Clustering**: Used as an alternative clustering method to group customers into hierarchical structures.
+
+### Visualizations
+- **Pair Plot**: Visualized relationships between different features to explore potential clusters.
+- **PCA Scatter Plot**: Visualized clusters after applying PCA for dimensionality reduction.
+- **Cluster Visualizations**: Displayed clustered data points using seaborn and matplotlib to understand customer grouping.
+
+
 Thank you for checking out my ML projects! Feel free to explore and provide feedback! 😊
