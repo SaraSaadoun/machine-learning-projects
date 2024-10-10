@@ -3,10 +3,11 @@
 Welcome to my collection of Machine Learning Projects! Here, I practice and showcase various ML models and techniques. Let's dive in! 🚀
 
 # Index:
-- **1. Diabetes Classification**
-- **2. Titanic Classification**
-- **3. Mall Customer Segmentation** 
- 
+- [**1. Diabetes Classification**](#1-diabetes-classification)
+- [**2. Titanic Classification**](#2-titanic-classification--a-data-leakage-free-approach-)
+- [**3. Mall Customer Segmentation**](#3-mall-customer-segmentation)
+- [**4. Iris Species Multi-Classifier**](#4-iris-species-multi-classifier)
+
 ## 📊 1. Diabetes Classification
 
 ### Project Overview
@@ -61,5 +62,22 @@ This project focuses on performing **customer segmentation** using unsupervised 
 - **PCA Scatter Plot**: Visualized clusters after applying PCA for dimensionality reduction.
 - **Cluster Visualizations**: Displayed clustered data points using seaborn and matplotlib to understand customer grouping.
 
+---
+
+## 🌷 4. Iris Species Multi-Classifier
+
+### Overview
+Classifying **Iris species** using the **Iris dataset** with features: sepal length, sepal width, petal length, and petal width.
+
+### Techniques
+
+- **Data Exploration**
+- **Models**: Logistic Regression, Random Forest, Xgboost Classifier, Decision Tree, SVM
+- **Evaluation**: Accuracy metrics as the dataset is balanced as well as classification report.
+
+### Visualizations
+- Pair plot and confusion matrix.
+
+---
 
 Thank you for checking out my ML projects! Feel free to explore and provide feedback! 😊
