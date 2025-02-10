@@ -51,6 +51,9 @@ After feature extraction, we select the most appropriate features and create a v
 ### Overview
 This project focuses on performing **customer segmentation** using unsupervised learning techniques to group customers based on their spending patterns and annual income. The goal is to identify distinct groups to better understand customer behavior.
 
+![image](https://github.com/user-attachments/assets/8aaaf57c-1464-4812-aa1f-b9634533b32c)
+
+
 ### Deployed Using Streamlit
 This project is deployed using a **Streamlit app**, providing an interactive interface to visualize customer segmentation results.
 
